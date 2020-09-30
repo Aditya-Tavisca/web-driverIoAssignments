@@ -1,0 +1,8 @@
+{
+    "destination":"//*[@id=\"inputDestination\"]",
+    "hotelButton":"//*[@id=\"SearchWidgetWrapper\"]/section/div/ul/li[2]/button",
+    "checkInDate":"//*[@id=\"inputCheckInDate\"]",
+    "adult":"//*[@id=\"selectHotelNumberAdults\"]",
+    "childern":"//*[@id=\"selectHotelNumberChildren\"]",
+    "searchHotel":"//*[@id=\"hotelSearchButton\"]"
+}

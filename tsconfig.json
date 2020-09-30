@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "baseUrl": "",
+       "types": [
+      "node",
+      "@wdio/mocha-framework",
+      "@wdio/sync"
+    ],
+    "resolveJsonModule": true,
+    "esModuleInterop": true  
+  },
+  "include": [
+    "./test/**/*.ts", "typing.d.ts",
+  ]
+}

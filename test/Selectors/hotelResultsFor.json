@@ -1,0 +1,4 @@
+{
+    "avilableRooms":"//*[@id=\"hotel-rooms-count\"]",
+    "hotelName":"//*[@id=\"HotelResultContent\"]/div[2]/div[2]/div[1]/h2/span"
+}
